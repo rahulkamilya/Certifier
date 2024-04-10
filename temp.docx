@@ -1,0 +1,9 @@
+Certificate of Achievement
+
+This is to certify that {{ Student_1st_Name }} {{ Student_2nd_Name }} has successfully completed the course {{ Course_Name }}.
+
+Guardian Name: {{ Guardian_1st_Name }} {{ Guardian_2nd_Name }}
+Registration Number: {{ Reg_No }}
+Academic Session: {{ Academic_Session }}
+
+{{ image }}  <!-- Placeholder for the image -->

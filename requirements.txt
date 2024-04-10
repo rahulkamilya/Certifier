@@ -1,0 +1,4 @@
+docxtpl==0.16.8
+fastapi==0.110.1
+pandas==2.2.1
+uvicorn==0.29.0
